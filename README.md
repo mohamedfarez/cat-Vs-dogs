@@ -1,3 +1,4 @@
+# by : Mohamed fares
 # Cat vs Dog Classifier
 
 This repository contains a machine learning model and a web interface for classifying images of cats and dogs.
